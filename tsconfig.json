@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+
+
+
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "module": "CommonJS",
+        
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "expect-webdriverio",
+            "@wdio/mocha-framework",
+            
+        ],
+        "target": "ES2015"
+        
+    }
+   
+}

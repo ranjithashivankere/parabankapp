@@ -1,0 +1,13 @@
+{
+    "firstname" : "Ranjitha",
+    "lastname"  : "SS",
+    "address"   : "bangalore",
+    "city"      :"banagalore",
+    "state"     :"karnataka",
+    "zipcode"   :"577553",
+    "phone"      :"445455555",
+    "ssn"    : "4544",
+    "username" : "ran787",
+    "password":"1111",
+    "confirmpsw":"1111"
+}
